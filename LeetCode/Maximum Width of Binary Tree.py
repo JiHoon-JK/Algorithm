@@ -10,6 +10,7 @@ class Solution(object):
         :type root: TreeNode
         :rtype: int
         """
+        # root : 현재 노드 / 0 : 인덱스에서의 위치 값
         queue = [(root,0)]
         width_max = 0
         #print(queue)
@@ -34,7 +35,5 @@ class Solution(object):
             width = queue[-1][1] - queue[0][1] + 1
             #  width_max와 width 중에서 제일 큰 값을 width_max에 선언
             width_max = max(width_max, width)
-            # tmp 배열을 queue에 배정
-            queue = tmp
         # width_max 제일 큰 너비 값을 반환한다.
         return width_max
