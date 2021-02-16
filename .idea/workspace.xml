@@ -26,7 +26,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Pizza With 3n Slices">
+  <component name="RunManager" selected="Python.Coin Change">
+    <configuration name="Coin Change" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Coin Change.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Maximum Width of Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Coin Change" />
         <item itemvalue="Python.Pizza With 3n Slices" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Maximum Width of Binary Tree" />
@@ -114,22 +136,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="267" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1612963944410" />
-    <state width="890" height="455" key="GridCell.Tab.0.bottom" timestamp="1613394712657">
+    <state width="936" height="455" key="GridCell.Tab.0.bottom" timestamp="1613443428988">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="890" height="455" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1613394712657" />
-    <state width="890" height="455" key="GridCell.Tab.0.center" timestamp="1613394712657">
+    <state width="936" height="455" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1613443428988" />
+    <state width="936" height="455" key="GridCell.Tab.0.center" timestamp="1613443428988">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="890" height="455" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1613394712657" />
-    <state width="890" height="455" key="GridCell.Tab.0.left" timestamp="1613394712657">
+    <state width="936" height="455" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1613443428988" />
+    <state width="936" height="455" key="GridCell.Tab.0.left" timestamp="1613443428988">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="890" height="455" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1613394712657" />
-    <state width="890" height="455" key="GridCell.Tab.0.right" timestamp="1613394712657">
+    <state width="936" height="455" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1613443428988" />
+    <state width="936" height="455" key="GridCell.Tab.0.right" timestamp="1613443428988">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="890" height="455" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1613394712657" />
+    <state width="936" height="455" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1613443428988" />
     <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1612944395662">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
