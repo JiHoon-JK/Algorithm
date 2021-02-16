@@ -10,6 +10,14 @@ n=input()
 n_list=list(map(int,input().split()))
 
 # 학생들의 평균 점수 / 소수 첫째 자리에서 반올림
+'''
+파이썬에서 round() 함수는 round_half_even 방식을 사용하기 때문에 오류가발생 
+(짝수 쪽으로 근삭값을 바꿔주는 함수)
+a=4.500 / print(round(a)) = 4 가 출력됨
+정확하게 4.5000으로 될 때 문제가 발생하는데, 이럴 떄는 round()를 사용할 수 없다.
+a=66.5 / round(a) = 66
+a=a+0.5 
+'''
 average_score=round(sum(n_list)/len(n_list))
 min=float('inf')
 
