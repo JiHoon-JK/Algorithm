@@ -45,8 +45,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../파이썬 알고리즘 문제풀이(코딩테스트 대비)" />
   </component>
-  <component name="RunManager" selected="Python.섹션2-9">
-    <configuration name="섹션2-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.섹션2-10">
+    <configuration name="섹션2-10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="inflearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/섹션2-5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/섹션2-10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.섹션2-10" />
         <item itemvalue="Python.섹션2-9" />
         <item itemvalue="Python.섹션2-8" />
         <item itemvalue="Python.섹션2-7" />
         <item itemvalue="Python.섹션2-6" />
-        <item itemvalue="Python.섹션2-5" />
       </list>
     </recent_temporary>
   </component>
@@ -185,26 +185,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="260" y="298" key="FileChooserDialogImpl" timestamp="1613717590409">
+    <state x="260" y="298" key="FileChooserDialogImpl" timestamp="1613875419547">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="260" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1613717590409" />
-    <state width="936" height="297" key="GridCell.Tab.0.bottom" timestamp="1613717565089">
+    <state x="260" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1613875419547" />
+    <state width="936" height="294" key="GridCell.Tab.0.bottom" timestamp="1613875467480">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1613717565089" />
-    <state width="936" height="297" key="GridCell.Tab.0.center" timestamp="1613717565089">
+    <state width="936" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1613875467480" />
+    <state width="936" height="294" key="GridCell.Tab.0.center" timestamp="1613875467480">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="297" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1613717565089" />
-    <state width="936" height="297" key="GridCell.Tab.0.left" timestamp="1613717565089">
+    <state width="936" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1613875467480" />
+    <state width="936" height="294" key="GridCell.Tab.0.left" timestamp="1613875467480">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="297" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1613717565089" />
-    <state width="936" height="297" key="GridCell.Tab.0.right" timestamp="1613717565089">
+    <state width="936" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1613875467480" />
+    <state width="936" height="294" key="GridCell.Tab.0.right" timestamp="1613875467480">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="297" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1613717565089" />
+    <state width="936" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1613875467480" />
     <state x="143" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1613619705035">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
