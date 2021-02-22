@@ -1,3 +1,4 @@
+### 회문 문자열 검사 ###
 import sys
 sys.stdin=open("input.txt","rt")
 
