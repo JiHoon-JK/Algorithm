@@ -43,7 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../inflearn" />
   </component>
   <component name="RunManager" selected="Python.House Robber 2">
     <configuration name="House Robber 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -118,10 +118,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1220" y="298" key="FileChooserDialogImpl" timestamp="1613712689309">
+    <state x="1220" y="298" key="FileChooserDialogImpl" timestamp="1614064428922">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1220" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1613712689309" />
+    <state x="1220" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1614064428922" />
     <state width="732" height="236" key="GridCell.Tab.0.bottom" timestamp="1613712690227">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
