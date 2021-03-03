@@ -25,6 +25,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../inflearn\exportToHTML" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -43,51 +46,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../파이썬 알고리즘 문제풀이(코딩테스트 대비)/섹션 3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Python.섹션3-7">
-    <configuration name="섹션3-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="inflearn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/섹션3-3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="섹션3-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="inflearn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/섹션3-4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.섹션3-9">
     <configuration name="섹션3-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="inflearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,13 +113,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="섹션3-8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="inflearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/섹션3-8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="섹션3-9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="inflearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/섹션3-9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.섹션3-9" />
+        <item itemvalue="Python.섹션3-8" />
         <item itemvalue="Python.섹션3-7" />
         <item itemvalue="Python.섹션3-6" />
         <item itemvalue="Python.섹션3-5" />
-        <item itemvalue="Python.섹션3-4" />
-        <item itemvalue="Python.섹션3-3" />
       </list>
     </recent_temporary>
   </component>
@@ -185,26 +189,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="260" y="298" key="FileChooserDialogImpl" timestamp="1614256520564">
+    <state x="260" y="298" key="FileChooserDialogImpl" timestamp="1614769250875">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="260" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1614256520564" />
-    <state width="936" height="293" key="GridCell.Tab.0.bottom" timestamp="1614256555459">
+    <state x="260" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1614769250875" />
+    <state width="936" height="292" key="GridCell.Tab.0.bottom" timestamp="1614770531639">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1614256555459" />
-    <state width="936" height="293" key="GridCell.Tab.0.center" timestamp="1614256555459">
+    <state width="936" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1614770531639" />
+    <state width="936" height="292" key="GridCell.Tab.0.center" timestamp="1614770531639">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1614256555459" />
-    <state width="936" height="293" key="GridCell.Tab.0.left" timestamp="1614256555459">
+    <state width="936" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1614770531639" />
+    <state width="936" height="292" key="GridCell.Tab.0.left" timestamp="1614770531639">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1614256555459" />
-    <state width="936" height="293" key="GridCell.Tab.0.right" timestamp="1614256555459">
+    <state width="936" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1614770531639" />
+    <state width="936" height="292" key="GridCell.Tab.0.right" timestamp="1614770531639">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1614256555459" />
+    <state width="936" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1614770531639" />
     <state width="936" height="363" key="GridCell.Tab.1.bottom" timestamp="1614070241310">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -221,6 +225,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="936" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1614070241310" />
+    <state x="493" y="204" width="998" height="723" key="SettingsEditor" timestamp="1614747945197">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="493" y="204" width="998" height="723" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1614747945197" />
+    <state x="1064" y="232" width="704" height="746" key="dock-window-1" timestamp="1614770177066">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1064" y="232" width="704" height="746" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1614770177066" />
     <state x="143" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1613619705035">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
