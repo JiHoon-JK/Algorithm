@@ -31,11 +31,15 @@ rt=sum(List)
 # lt <= rt 라면 계속해서 반복
 while lt <= rt:
     mid=(lt+rt)//2
-    #
+    # Count(mid)를 통해서 범위에 제일 가운데 값을 기준으로 DVD개수와 비교
     if Count(mid)<=k:
+        # res에 mid를 담는다.
         res=mid
+        # 오른쪽 기준점을 왼쪽으로 1칸 당긴다.
         rt=mid-1
+    # DVD 개수 (k)가 Count(mid) 보다 더 작다면
     else:
+        #왼쪽 기준점을 오른쪽으로 1칸 당긴다
         lt=mid+1
 
 print(res)
